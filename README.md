@@ -57,3 +57,6 @@ Sending personalized calls      \
 Sending missed calls            \
 Modify time and date            \
 Music controls                  
+
+## Running the Script
+<img src="Demos/Running Script.png" width = 200>
