@@ -2,7 +2,8 @@
 --------------------------------------------------------
 
 This script extracts, organizes and sends data to a
-RabbitMQ broker from several bands simultaneously.                  \
+RabbitMQ broker from several bands simultaneously.
+
 Supports Mi Band version 3 and 4
 
 
@@ -23,7 +24,7 @@ You must insert the mac address with the key extracted in the
 
 In the file: < Configs.py >                                         
 
-    scan_time   -   Search time for BLE devices                     \
+    scan_time   -   Search time for BLE devices                     
     log_limit   -   Number of daily logs to be filtered and sent.   
 
 ## Server
@@ -31,8 +32,8 @@ In the file: < Configs.py >
 
 RabbitMQ broker must respect the following configuration:           
 
-    Exchange    -  example-exchange                                 \
-    Queue       -  example-queue                                    \
+    Exchange    -  example-exchange                                 
+    Queue       -  example-queue                                    
     Routing Key -  example                                          
                                                                     
 ## Needed topics:                                                    
