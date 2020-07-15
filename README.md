@@ -46,10 +46,11 @@ RabbitMQ broker must respect the following configuration:
     time                                                            
     unrouted                                                        
 
-Extra Functions:
+##  Extra Functions
 
-    Changing the firmware           \
-    Sending personalized messages
+Changing the firmware     
+
+Sending personalized messages
     Sending personalized calls 
     Sending missed calls 
     Modify time and date
