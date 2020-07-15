@@ -2,7 +2,7 @@
 --------------------------------------------------------
 
 This script extracts, organizes and sends data to a
-RabbitMQ broker from several bands simultaneously.
+RabbitMQ broker from several bands simultaneously
 \
 Supports Mi Band version 3 and 4
 
@@ -12,7 +12,7 @@ Supports Mi Band version 3 and 4
 ## Mi Band 3       
 
 After starting the script it will ask
-to touch the screen, proceed to authenticate the band.
+to touch the screen, proceed to authenticate the band
 
 ## Mi Band 4      
 
@@ -26,7 +26,7 @@ Supports multiple devices
 In the file  < Configs.py >                                      
                         
 scan_time   -   Search time for BLE devices                                                         
-log_limit   -   Number of daily logs to be filtered and sent.      
+log_limit   -   Number of daily logs to be filtered and sent      
 \
 \
 ## Server
