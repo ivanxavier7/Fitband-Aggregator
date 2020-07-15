@@ -60,21 +60,30 @@ Music controls
 
 ## Script
 <img src="Demos/Script.png">
+
 ## Running the Script
 <img src="Demos/Running Script.png">
+
 ## Published Message
 <img src="Demos/Published Message.png">
+
 ## RabbitMQ Configuration - Exchange
 <img src="Demos/RabbitMQ Configuration - Exchange.png">
+
 ## RabbitMQ Configuration - Queue
 <img src="Demos/RabbitMQ Configuration - Queue.png">
+
 ## RabbitMQ Configuration - Routing Key
 <img src="Demos/RabbitMQ Configuration - Routing Key.png">
+
 ## Multiple Devices
-<img src="Demos/Multiple Devices.png">
+<img src="Demos/Multiple Devices.jpg">
+
 ## Mi Band 3 - Pairing Confirmation
-<img src="Demos/Mi Band 3 -Pairing Confirmation.png">
+<img src="Demos/Mi Band 3 -Pairing Confirmation.jpg">
+
 ## Debug Mode
 <img src="Demos/Debug Mode.png" width=500>
+
 ## Logs Usage
 <img src="Demos/Logs Usage.png">
