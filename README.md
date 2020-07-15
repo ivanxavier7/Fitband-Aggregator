@@ -35,7 +35,7 @@ RabbitMQ broker must respect the following configuration:
     Queue       -  example-queue                                    
     Routing Key -  example                                          
                                                                     
-## Needed topics:                                                    
+## Needed Topics:                                                    
     battery                                                   
     hardware                                                        
     mi4-logs                                                        
@@ -46,13 +46,11 @@ RabbitMQ broker must respect the following configuration:
     time                                                            
     unrouted                                                        
 
-##  Extra Functions
+##  Additional Functions
 
 Changing the firmware     
-
 Sending personalized messages
-    Sending personalized calls 
-    Sending missed calls 
-    Modify time and date
-    Music controls
-    Logging colors
+Sending personalized calls 
+Sending missed calls 
+Modify time and date
+Music controls
