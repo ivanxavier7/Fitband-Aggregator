@@ -20,7 +20,8 @@ In the file  < miband4_auth_keys.json >
 
 You must insert the mac address with the key extracted in the "Free My Band" application
 Supports multiple devices              
-
+\
+\
 In the file  < Configs.py >                                      
                         
 scan_time   -   Search time for BLE devices                                                         
@@ -53,4 +54,4 @@ Sending personalized messages   \
 Sending personalized calls      \
 Sending missed calls            \
 Modify time and date            \
-Music controls                  \
+Music controls                  
