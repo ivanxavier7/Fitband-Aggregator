@@ -27,14 +27,14 @@ RabbitMQ broker must respect the following configuration:
     Exchange    -  example-exchange
     Queue       -  example-queue
     Routing Key -  example
-
+--------------------------------------------------------
 Needed topics:
-    battery
-    hardware
-    mi4-logs
-    radius
-    serial
-    software
-    steps
-    time
-    unrouted
+    - battery
+    - hardware
+    - mi4-logs
+    - radius
+    - serial
+    - software
+    - steps
+    - time
+    - unrouted
