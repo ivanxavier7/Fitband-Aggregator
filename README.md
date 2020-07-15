@@ -28,7 +28,7 @@ In the file  < Configs.py >
 scan_time   -   Search time for BLE devices                                                         
 log_limit   -   Number of daily logs to be filtered and sent      
 \
-\
+
 ## Server
 --------------------------------------------------------
 
