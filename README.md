@@ -17,7 +17,7 @@ You must insert the mac address with the key extracted in the
 
 In the file: < Configs.py >                                         \
     scan_time   -   Search time for BLE devices                     \
-    log_limit   -   Number of daily logs to be filtered and sent.   \
+    log_limit   -   Number of daily logs to be filtered and sent.   
 
 # Server
 --------------------------------------------------------
@@ -27,7 +27,7 @@ RabbitMQ broker must respect the following configuration:           \
     Routing Key -  example                                          \
                                                                     \
 ## Needed topics:                                                    
-    ##### battery                                                   \
+    battery                                                   \
     hardware                                                        \
     mi4-logs                                                        \
     radius                                                          \
