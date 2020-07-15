@@ -6,11 +6,11 @@ Supports Mi Band version 3 and 4
 
 Configuration and usage
 --------------------------------------------------------
-Mi Band 3                                                           \
+# Mi Band 3                                                           \
 After starting the script it will ask
 to touch the screen, proceed to authenticate the band.
 
-Mi Band 4                                                           \
+## Mi Band 4                                                           \
 In the file: < miband4_auth_keys.json >                             \
 You must insert the mac address with the key extracted in the
 "Free My Band" application, Supports multiple devices.
@@ -27,7 +27,7 @@ RabbitMQ broker must respect the following configuration:           \
     Routing Key -  example                                          \
                                                                     \
 Needed topics:                                                      \
-    battery                                                         \
+    ### battery                                                         \
     hardware                                                        \
     mi4-logs                                                        \
     radius                                                          \
