@@ -77,13 +77,13 @@ Music controls
 <img src="Demos/RabbitMQ Configuration - Routing Key.png">
 
 ## Multiple Devices
-<img src="Demos/Multiple Devices.jpg">
+<img src="Demos/Multiple Devices.jpg" width=600>
 
 ## Mi Band 3 - Pairing Confirmation
-<img src="Demos/Mi Band 3 -Pairing Confirmation.jpg">
+<img src="Demos/Mi Band 3 -Pairing Confirmation.jpg" width=600>
 
 ## Debug Mode
-<img src="Demos/Debug Mode.png" width=500>
+<img src="Demos/Debug Mode.png" width=800>
 
 ## Logs Usage
 <img src="Demos/Logs Usage.png">
