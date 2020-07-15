@@ -6,7 +6,7 @@ RabbitMQ broker from several bands simultaneously
 \
 Supports Mi Band version 3 and 4
 
-## Configuration and usage
+# Configuration and usage
 --------------------------------------------------------
 
 ## Mi Band 3       
@@ -58,5 +58,23 @@ Sending missed calls            \
 Modify time and date            \
 Music controls                  
 
+## Script
+<img src="Demos/Script.png">
 ## Running the Script
 <img src="Demos/Running Script.png">
+## Published Message
+<img src="Demos/Published Message.png">
+## RabbitMQ Configuration - Exchange
+<img src="Demos/RabbitMQ Configuration - Exchange.png">
+## RabbitMQ Configuration - Queue
+<img src="Demos/RabbitMQ Configuration - Queue.png">
+## RabbitMQ Configuration - Routing Key
+<img src="Demos/RabbitMQ Configuration - Routing Key.png">
+## Multiple Devices
+<img src="Demos/Multiple Devices.png">
+## Mi Band 3 - Pairing Confirmation
+<img src="Demos/Mi Band 3 -Pairing Confirmation.png">
+## Debug Mode
+<img src="Demos/Debug Mode.png" width=500>
+## Logs Usage
+<img src="Demos/Logs Usage.png">
