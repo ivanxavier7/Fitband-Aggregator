@@ -48,9 +48,9 @@ RabbitMQ broker must respect the following configuration:
 
 ##  Additional Functions
 
-Changing the firmware     
-Sending personalized messages
-Sending personalized calls 
-Sending missed calls 
-Modify time and date
-Music controls
+Changing the firmware           \
+Sending personalized messages   \
+Sending personalized calls      \
+Sending missed calls            \
+Modify time and date            \
+Music controls                  \
