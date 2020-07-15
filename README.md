@@ -59,4 +59,4 @@ Modify time and date            \
 Music controls                  
 
 ## Running the Script
-<img src="Demos/Running Script.png" width = 200>
+<img src="Demos/Running Script.png">
