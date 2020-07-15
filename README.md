@@ -24,7 +24,7 @@ In the file: < Configs.py >                                         \
 RabbitMQ broker must respect the following configuration:           \
     Exchange    -  example-exchange                                 \
     Queue       -  example-queue                                    \
-    Routing Key -  example                                          \
+    Routing Key -  example                                          
                                                                     
 ## Needed topics:                                                    
     battery                                                   
