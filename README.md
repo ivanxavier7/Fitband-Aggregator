@@ -1,4 +1,5 @@
 # Fitband-Aggregator
+
 Exctracts, organizes and sends data from several Mi Band's 3 and 4 to a RabbitMQ broker
 
 This script extracts, organizes and sends data to a
