@@ -16,12 +16,12 @@ to touch the screen, proceed to authenticate the band.
 
 ## Mi Band 4      
 
-In the file < miband4_auth_keys.json >                          \                             
+In the file < miband4_auth_keys.json >                                                       
 
-You must insert the mac address with the key extracted in the       
-"Free My Band" application, Supports multiple devices.              
+You must insert the mac address with the key extracted in the "Free My Band" application
+Supports multiple devices              
 
-In the file < Configs.py >                                      \
+In the file < Configs.py >                                      
                         
 scan_time   -   Search time for BLE devices                     \                                    
 log_limit   -   Number of daily logs to be filtered and sent.   \   
