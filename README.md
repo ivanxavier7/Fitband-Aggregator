@@ -1,5 +1,5 @@
 # Fitband-Aggregator
-
+--------------------------------------------------------
 Exctracts, organizes and sends data from several Mi Band's 3 and 4 to a RabbitMQ broker
 
 This script extracts, organizes and sends data to a
@@ -24,15 +24,15 @@ In the file: < Configs.py >
 Server
 --------------------------------------------------------
 RabbitMQ broker must respect the following configuration:
-    Exchange    -  example-exchange
-    Queue       -  example-queue
-    Routing Key -  example
---------------------------------------------------------
-Needed topics:                                          \
-    battery                                             \
-    hardware                                            \
-    mi4-logs                                            \
-    radius                                              \
+    Exchange    -  example-exchange                         \
+    Queue       -  example-queue                            \
+    Routing Key -  example                                  \
+                                                            \
+Needed topics:                                              \
+    battery                                                 \
+    hardware                                                \
+    mi4-logs                                                \
+    radius                                                  \
     serial
     software
     steps
