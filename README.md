@@ -7,6 +7,8 @@ RabbitMQ broker from several bands simultaneously.
 Supports Mi Band version 3 and 4
 
 
+
+
 ## Configuration and usage
 --------------------------------------------------------
 
@@ -26,6 +28,8 @@ In the file: < Configs.py >
 
     scan_time   -   Search time for BLE devices                     
     log_limit   -   Number of daily logs to be filtered and sent.   
+
+
 
 ## Server
 --------------------------------------------------------
